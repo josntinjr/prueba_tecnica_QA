@@ -3,8 +3,7 @@
 Automatización con **Cypress** de los tres casos obligatorios de login en  
 [https://practicetestautomation.com/practice-test-login/](https://practicetestautomation.com/practice-test-login/).
 
-**Repositorio:** https://github.com/josntinjr/qa-automation-login
-
+**Repositorio:** https://github.com/josntinjr/prueba_tecnica_QA/
 ## Requisitos
 
 | Requisito | Versión recomendada |
@@ -17,8 +16,8 @@ Automatización con **Cypress** de los tres casos obligatorios de login en
 Cloná el repo y entrá a la carpeta del proyecto:
 
 ```bash
-git clone https://github.com/josntinjr/qa-automation-login.git
-cd qa-automation-login
+git clone https://github.com/josntinjr/prueba_tecnica_QA/.git
+cd prueba_tecnica_QA
 npm install
 ```
 
